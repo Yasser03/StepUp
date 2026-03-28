@@ -1,36 +1,35 @@
-# ks2_time_table
+# 🎯 KumonFlow
 
-This project is designed to create a user-friendly timetable for KS2 students using Streamlit.
+Premium KS2 adaptive learning platform based on Kumon principles.
 
-## Getting Started
+## Features
+- **Adaptive Math & Reading**: Dynamically generated exercises using Groq LLM (Llama 3.3 70B).
+- **Mastery-Based Progression**: 80%+ accuracy and streaks required to level up.
+- **Kid-Friendly UI**: Premium glassmorphism design with clear typography and motivational elements.
+- **Dual Subjects**: Mathematics and Reading/Language Arts.
 
-To run the application, you'll need to have Python installed on your machine. Ensure you are using Python 3.6 or later.
+## Setup
 
-### Prerequisites
-
-Before running the application, install the necessary dependencies by using the `requirements.txt` file.
-
-### Installation Steps:
-1. Clone the repository:
+1. **Install Dependencies**:
    ```bash
-   git clone https://github.com/Yasser03/ks2_time_table.git
-   cd ks2_time_table
+   npm install
    ```
 
-2. Install the required packages:
+2. **Configure Environment**:
+   Copy `.env.example` to `.env` and add your Groq API Key:
    ```bash
-   pip install -r requirements.txt
+   VITE_GROQ_API_KEY=your_key_here
    ```
 
-## Running the Application
+3. **Run Locally**:
+   ```bash
+   npm run dev
+   ```
 
-To run the Streamlit application, use the following command:
-```bash
-streamlit run app.py
-```
+## Kumon Methodology
+- **Incremental Steps**: Complexity increases gradually within each level.
+- **Daily Sessions**: Designed for 15-20 minutes of focused practice.
+- **Self-Correction**: Integrated hints encourage independent problem solving.
 
-Visit `http://localhost:8501` in your browser to view the application.
-
-## License
-
-This project is licensed under the MIT License.
+---
+*Created by Antigravity AI*
