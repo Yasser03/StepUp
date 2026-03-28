@@ -50,11 +50,11 @@ This is where the magic happens. A minimalist, focused area that presents the AI
 StepUp follows a rigorous pedagogical structure inspired by the Kumon method, enhanced by AI.
 
 ### 1. Progressive Levels (A → F)
-| Level | Mastery Focus |
-| :--- | :--- |
-| **Level A** | Foundational Concepts & Rapid Recall |
+| Level         | Mastery Focus                                  |
+| :------------ | :--------------------------------------------- |
+| **Level A**   | Foundational Concepts & Rapid Recall           |
 | **Level B-D** | Intermediate Application & Pattern Recognition |
-| **Level E-F** | Advanced Problem Solving & Critical Thinking |
+| **Level E-F** | Advanced Problem Solving & Critical Thinking   |
 
 ### 2. The 10-Step Ladder
 Each level consists of **10 Steps**. To progress from Step 1 to Step 2, a student must demonstrate mastery.
@@ -107,7 +107,7 @@ npm run dev
 - 🔬 48+ research publications
 - 🏢 Experience: Government (Abu Dhabi), Media (Track24), Recruitment (Reed), Energy (ADNOC)
 - 📍 Based in Newcastle Upon Tyne, UK
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yasser-mustafa) | [GitHub](https://github.com/ymustafa)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yasser-mustafa-ai) | [GitHub](https://github.com/yasser03)
 
 ---
 
