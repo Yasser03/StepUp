@@ -1,6 +1,6 @@
-# 🎯 KumonFlow
+# 🎯 StepUp
 
-Premium KS2 adaptive learning platform based on Kumon principles.
+Premium KS2 adaptive learning platform for daily practice.
 
 ## Features
 - **Adaptive Math & Reading**: Dynamically generated exercises using Groq LLM (Llama 3.3 70B).
@@ -26,7 +26,7 @@ Premium KS2 adaptive learning platform based on Kumon principles.
    npm run dev
    ```
 
-## Kumon Methodology
+## Our Methodology
 - **Incremental Steps**: Complexity increases gradually within each level.
 - **Daily Sessions**: Designed for 15-20 minutes of focused practice.
 - **Self-Correction**: Integrated hints encourage independent problem solving.

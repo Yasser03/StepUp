@@ -14,7 +14,7 @@ export interface Problem {
 
 export const generateMathProblem = async (level: string, step: number): Promise<Problem> => {
   const prompt = `
-    Role: Kumon Math Instructor
+    Role: StepUp Math Instructor
     Task: Generate a single math problem for Level ${level}.
     Difficulty Step: ${step}/10 (1 is basic, 10 is advanced for this level).
     Format: Return ONLY a valid JSON object with the following keys:
@@ -49,7 +49,7 @@ export const generateMathProblem = async (level: string, step: number): Promise<
 
 export const generateReadingExercise = async (level: string): Promise<Problem> => {
     const prompt = `
-      Role: Kumon Literacy Coach
+      Role: StepUp Literacy Coach
       Task: Generate a short reading exercise for level ${level}.
       Format: Return ONLY a valid JSON object with the following keys:
       "content": A short passage (2-3 sentences) and a question,
