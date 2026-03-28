@@ -31,5 +31,3 @@ Premium KS2 adaptive learning platform for daily practice.
 - **Daily Sessions**: Designed for 15-20 minutes of focused practice.
 - **Self-Correction**: Integrated hints encourage independent problem solving.
 
----
-*Created by Antigravity AI*
