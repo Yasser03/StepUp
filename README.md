@@ -5,10 +5,10 @@
 [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Groq](https://img.shields.io/badge/Groq-Llama_3.3-orange?style=for-the-badge)](https://groq.com/)
+[![AI-Powered](https://img.shields.io/badge/AI--Powered-LLMs-blue?style=for-the-badge)](https://github.com/Yasser03/StepUp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-**StepUp** is a production-ready, adaptive learning platform designed for KS2 students. It transforms the traditional "drill and kill" approach into an engaging, mastery-based experience using the **Groq LLM (Llama 3.3 70B)** to generate unique, level-appropriate exercises in real-time.
+**StepUp** is a production-ready, adaptive learning platform designed for KS2 students. It transforms the traditional "drill and kill" approach into an engaging, mastery-based experience using **LLMs** to generate unique, level-appropriate exercises in real-time.
 
 ---
 
@@ -19,7 +19,7 @@ Most learning apps provide static question banks that students eventually memori
 - 🧠 **Infinite Variety**: Every problem is generated on-the-fly, ensuring students never see the same question twice.
 - 📈 **Mastery-First**: We don't just track completion; we track *internalized knowledge* through streak-based progression.
 - ✨ **Premium Experience**: A high-end "Glassmorphism" UI designed to reduce cognitive load and keep kids focused.
-- ⚡ **Instant Intelligence**: Powered by Groq for sub-second generation of complex reading passages and math problems.
+- ⚡ **Instant Intelligence**: Powered by state-of-the-art **LLMs** for sub-second generation of complex reading passages and math problems.
 
 ---
 
@@ -91,7 +91,7 @@ npm run dev
 ## 🛠️ Tech Stack
 - **Frontend**: Vite + React 19 + TypeScript
 - **State Management**: Zustand (Atomic, high-performance state)
-- **AI Brain**: Groq SDK (Llama 3.3 70B)
+- **AI Brain**: LLMs
 - **Visuals**: Lucide React Icons + Custom Glassmorphism CSS System
 
 ---
